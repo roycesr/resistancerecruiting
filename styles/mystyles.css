@@ -1,0 +1,31 @@
+body{
+    background-image: url(../images/Background\ Picture.jpg)
+    
+}
+
+
+.img,svg {
+  vertical-align: right ;
+}
+
+.img-fluid {
+  max-width: 30%;
+  height: auto; 
+}
+
+ul.mb-0 {
+    text-align: left;
+    list-style-type:georgian
+  }
+
+.mb-3{font-family: monospace;
+    color:darkblue;
+}
+
+ol{
+  list-style-type: lower-roman;
+}
+
+.ewok{
+ vertical-align: align 100px;;
+}
